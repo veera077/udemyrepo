@@ -5,4 +5,10 @@ fourth commit
 5th commit
 7th commit
 8th commit
+<<<<<<< HEAD
 10th commit
+=======
+9th commit
+11th commit
+>>>>>>> feature
+
