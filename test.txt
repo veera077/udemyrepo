@@ -12,3 +12,5 @@ fourth commit
 11th commit
 >>>>>>> feature
 
+feature commit added here for 
+PR for git
